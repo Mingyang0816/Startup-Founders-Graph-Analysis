@@ -13,8 +13,12 @@ Web-scrape list of journals published by startup founders, and perform graph ana
 ## Data Analysis Notebook
 
 Performed basic data cleaning and analysis on web-scraped data. Aimed to determine the "success" of startup founders using the following metrics:
-
 *   Author position in journal published
 *   Total number of citations per year
 *   Depth and breadth of research fields
 *   Number of journals published in influential publications (IEEE and Nature)
+
+
+## Foreign Citations Notebook
+
+Aimed to determine the "success" of startup founders by analyzing the distribution of foreign journals that cited journals published by founders. Created a tree-map for each founder to plot distribution of foreign journals.
