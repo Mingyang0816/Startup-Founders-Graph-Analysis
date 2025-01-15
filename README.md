@@ -30,3 +30,9 @@ Aimed to determine the "success" of startup founders by analyzing the **distribu
 startup founders and other researchers, up to one degree of separation. If one researcher cited another, a directed edge links the two nodes together.
 *   Analyzed the top 10 researchers **most frequently cited** by each founder.
 *   Used various graph **centrality measures** to determine the most influential researchers in each field.
+
+
+## Graph Analysis II Notebook
+
+*   Created **multi-graph** to analyze the collaboration relationships among startup founders and other researchers, up to one degree of separation. If two researchers collaborated on the same journal, an edge links the two nodes together. 
+*   Analyzed the top 10 researchers **most frequently collaborated** with by each founder.
