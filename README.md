@@ -36,3 +36,10 @@ startup founders and other researchers, up to one degree of separation. If one r
 
 *   Created **multi-graph** to analyze the collaboration relationships among startup founders and other researchers, up to one degree of separation. If two researchers collaborated on the same journal, an edge links the two nodes together. 
 *   Analyzed the top 10 researchers **most frequently collaborated** with by each founder.
+
+
+## Mentors Notebook
+
+*   Mentors are defined to be the researcher in the **last** position of each journal (usually PhD mentors, or an influential figure in the research field).
+*   Collate the list of mentors for all startup founders, and web-scrape their information from their Google Scholar profile pages.
+*   Build **mentor database** using these information, used for further analysis and identification of potential founders to invest in.
