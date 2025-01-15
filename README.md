@@ -24,7 +24,7 @@ Performed basic data cleaning and analysis on web-scraped data. Aimed to determi
 Aimed to determine the "success" of startup founders by analyzing the distribution of foreign journals that cited journals published by founders. Created a tree-map for each founder to plot distribution of foreign journals.
 
 
-# Graph Analysis I Notebook
+## Graph Analysis I Notebook
 
 *   Created multi-directed graph to analyze the citation relationships among
 startup founders and other researchers, up to one degree of separation. If one researcher cited another, a directed edge links the two nodes together.
